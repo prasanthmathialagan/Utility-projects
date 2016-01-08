@@ -4,5 +4,7 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="lib" path="lib/log4j-1.2.14.jar"/>
 	<classpathentry kind="lib" path="lib/jdom.jar" sourcepath="/home/admin/Downloads/jdom-master/core/src/java"/>
+	<classpathentry kind="lib" path="lib/poi-3.7.jar"/>
+	<classpathentry kind="lib" path="lib/poi-ooxml-3.7.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
